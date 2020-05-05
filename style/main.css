@@ -1,0 +1,187 @@
+body{
+    background: #ffffff;
+    width: 100%;
+    margin: 0;
+}
+ 
+ h1{
+    font-size: 36px;
+    color: #212121;
+    font-family: 'Raleway', sans-serif;
+    text-align: center;
+    margin: 0;
+    padding-top: 107px;
+ }
+ hr{
+    background: #FF8B38;
+    width: 64px;
+    height: 2px;
+    border: none;
+    margin-top: 30px;
+ }
+ p{
+    font-size: 14px;
+    font-family: 'Open Sans', sans-serif;
+    color: #86878B;
+    text-align: center;
+    margin: 30px 0;
+ }
+ h3{
+    font-size: 20px;
+    font-family: 'Open Sans', sans-serif;
+    color: #333333;
+    text-align: center;
+    padding-top: 30px;
+ }
+ 
+ 
+ .main{
+     text-align: center;
+     margin-top: 80px;
+     margin-bottom: 102px;
+ }
+ .container{
+     width: 350px;
+     display: inline-block;
+ }
+ 
+ .container-lamp{
+     width: 70px;
+     height: 70px;
+     margin: 0 auto;
+     background-image: url(../img/lamp.jpg);
+     background-repeat: no-repeat;
+     background-position: center 21px;
+     border: 2px solid #FF8B38;
+     border-radius: 50%;
+ }
+ 
+ .container-keyboard{
+     width: 70px;
+     height: 70px;
+     margin: 0 auto;
+     background-image: url(../img/keyboard.jpg);
+     background-repeat: no-repeat;
+     background-position: center 25px;
+     border: 2px solid #FF8B38;
+     border-radius: 50%;
+ }
+ 
+ .container-volt{
+     width: 70px;
+     height: 70px;
+     margin: 0 auto;
+     background-image: url(../img/volt.jpg);
+     background-repeat: no-repeat;
+     background-position: center 19px;
+     border: 2px solid #FF8B38;
+     border-radius: 50%;
+ }
+
+.section{
+    margin: 0;
+    background-image: url(../img/city.png);
+    padding-bottom: 63px;
+}
+
+ h2{
+    font-size: 36px;
+    color: #ffffff;
+    font-family: 'Raleway', sans-serif;
+    text-align: center;
+    padding-top: 56px;
+ }
+ .section hr{
+    background: #ffffff;
+    width: 64px;
+    height: 2px;
+    border: none;
+    margin-top: 26px;
+ }
+ .section p{
+    font-size: 16px;
+    font-family: 'Open Sans', sans-serif;
+    color: #ffffff;
+    text-align: center;
+ }
+ .button{
+     margin: 0 auto;
+     width: 135px;
+     height: 42px;
+     border: 2px solid #ffffff;
+ }
+ h4{
+     font-size: 15px;
+     color: #ffffff;
+     font-family: 'Open Sans', sans-serif;
+     text-align: center; 
+     margin: 10px;  
+ }
+
+ footer{
+     margin: 0;
+     background: #212121;
+ } 
+.logo{
+    padding-top: 39px;
+    text-align: center;
+}
+.logo .facebook{
+    display: inline-block;
+    width: 30px;
+    height: 30px;
+    background-image: url(../img/facebook.png);
+    margin: 0 15px;
+}
+.logo .twitter{
+    display: inline-block;
+    width: 30px;
+    height: 30px;
+    background-image: url(../img/twitter.png);
+    margin: 0 15px;
+}
+.logo .google-plus{
+    display: inline-block;
+    width: 30px;
+    height: 30px;
+    background-image: url(../img/google-plus.png);
+    margin: 0 15px;
+}
+.logo .pinterest{
+    display: inline-block;
+    width: 30px;
+    height: 30px;
+    background-image: url(../img/pinterest.png);
+    margin: 0 15px;
+}
+.logo .instagram{
+    display: inline-block;
+    width: 30px;
+    height: 30px;
+    background-image: url(../img/instagram.png);
+    margin: 0 15px;
+}
+.logo .stumble-upon{
+    display: inline-block;
+    width: 30px;
+    height: 30px;
+    background-image: url(../img/stumble-upon.png);
+    margin: 0 15px;
+}
+.logo .rss{
+    display: inline-block;
+    width: 30px;
+    height: 30px;
+    background-image: url(../img/rss.png);
+    margin: 0 15px;
+}
+
+.copy{
+    margin: 0;
+    padding: 15px;
+    font-size: 12px;
+    color: #ffffff;
+    font-family: 'Open Sans', sans-serif;
+}
+
+ 
