@@ -1,6 +1,5 @@
 body{
     background: #ffffff;
-    width: 100%;
     margin: 0;
 }
  
@@ -35,54 +34,54 @@ body{
  }
  
  
- .main{
-     text-align: center;
-     margin-top: 80px;
-     margin-bottom: 102px;
- }
+main{
+    text-align: center;
+    margin-top: 80px;
+    margin-bottom: 102px;
+}
  .container{
-     width: 350px;
-     display: inline-block;
+    width: 350px;
+    display: inline-block;
  }
  
  .container-lamp{
-     width: 70px;
-     height: 70px;
-     margin: 0 auto;
-     background-image: url(../img/lamp.jpg);
-     background-repeat: no-repeat;
-     background-position: center 21px;
-     border: 2px solid #FF8B38;
-     border-radius: 50%;
+    width: 70px;
+    height: 70px;
+    margin: 0 auto;
+    background-image: url(../img/lamp.jpg);
+    background-repeat: no-repeat;
+    background-position: center 21px;
+    border: 2px solid #FF8B38;
+    border-radius: 50%;
  }
  
  .container-keyboard{
-     width: 70px;
-     height: 70px;
-     margin: 0 auto;
-     background-image: url(../img/keyboard.jpg);
-     background-repeat: no-repeat;
-     background-position: center 25px;
-     border: 2px solid #FF8B38;
-     border-radius: 50%;
+    width: 70px;
+    height: 70px;
+    margin: 0 auto;
+    background-image: url(../img/keyboard.jpg);
+    background-repeat: no-repeat;
+    background-position: center 25px;
+    border: 2px solid #FF8B38;
+    border-radius: 50%;
  }
  
  .container-volt{
-     width: 70px;
-     height: 70px;
-     margin: 0 auto;
-     background-image: url(../img/volt.jpg);
-     background-repeat: no-repeat;
-     background-position: center 19px;
-     border: 2px solid #FF8B38;
-     border-radius: 50%;
+    width: 70px;
+    height: 70px;
+    margin: 0 auto;
+    background-image: url(../img/volt.jpg);
+    background-repeat: no-repeat;
+    background-position: center 19px;
+    border: 2px solid #FF8B38;
+    border-radius: 50%;
  }
 
 .section{
     margin: 0;
     background-image: url(../img/city.png);
     padding-bottom: 63px;
-}
+ }
 
  h2{
     font-size: 36px;
@@ -104,84 +103,47 @@ body{
     color: #ffffff;
     text-align: center;
  }
- .button{
-     margin: 0 auto;
-     width: 135px;
-     height: 42px;
-     border: 2px solid #ffffff;
+ button{
+    display: block;
+    margin: 0 auto;
+    width: 135px;
+    height: 42px;
+    border: 2px solid #ffffff;
+    color: #ffffff;
+    background: transparent;
+    cursor: pointer;
+    font-size: 15px;
  }
  h4{
-     font-size: 15px;
-     color: #ffffff;
-     font-family: 'Open Sans', sans-serif;
-     text-align: center; 
-     margin: 10px;  
+    font-size: 15px;
+    color: #ffffff;
+    font-family: 'Open Sans', sans-serif;
+    text-align: center; 
+    margin: 10px;  
  }
 
  footer{
-     margin: 0;
-     background: #212121;
+    margin: 0;
+    background: #212121;
  } 
-.logo{
+ .logo{
+    margin: 0;
     padding-top: 39px;
     text-align: center;
-}
-.logo .facebook{
+ }
+ li{
     display: inline-block;
     width: 30px;
     height: 30px;
-    background-image: url(../img/facebook.png);
-    margin: 0 15px;
-}
-.logo .twitter{
-    display: inline-block;
-    width: 30px;
-    height: 30px;
-    background-image: url(../img/twitter.png);
-    margin: 0 15px;
-}
-.logo .google-plus{
-    display: inline-block;
-    width: 30px;
-    height: 30px;
-    background-image: url(../img/google-plus.png);
-    margin: 0 15px;
-}
-.logo .pinterest{
-    display: inline-block;
-    width: 30px;
-    height: 30px;
-    background-image: url(../img/pinterest.png);
-    margin: 0 15px;
-}
-.logo .instagram{
-    display: inline-block;
-    width: 30px;
-    height: 30px;
-    background-image: url(../img/instagram.png);
-    margin: 0 15px;
-}
-.logo .stumble-upon{
-    display: inline-block;
-    width: 30px;
-    height: 30px;
-    background-image: url(../img/stumble-upon.png);
-    margin: 0 15px;
-}
-.logo .rss{
-    display: inline-block;
-    width: 30px;
-    height: 30px;
-    background-image: url(../img/rss.png);
-    margin: 0 15px;
-}
+    margin: 0 15px;  
+ }
 
-.copy{
+ .copy{
     margin: 0;
     padding: 15px;
     font-size: 12px;
     color: #ffffff;
     font-family: 'Open Sans', sans-serif;
-}
+ }
 
  
